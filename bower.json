@@ -1,0 +1,33 @@
+{
+  "name": "ply",
+  "main": [
+    "Ply.js",
+    "ply.css"
+  ],
+  "version": "0.3.0",
+  "homepage": "https://github.com/RubaXa/Ply",
+  "authors": [
+    "Konstantin Lebedev <ibnRubaXa@gmail.com>"
+  ],
+  "description": "Ply — Amazing layer/modal/dialog system. Wow!",
+  "moduleType": [],
+  "keywords": [
+    "ply",
+    "layer",
+    "modal",
+    "dialog",
+    "popup",
+    "lightbox",
+    "alert",
+    "confirm",
+    "prompt"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
