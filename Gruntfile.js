@@ -101,5 +101,5 @@ module.exports = function (grunt){
 	grunt.registerTask('build', ['es', 'qunit']);
 	grunt.registerTask('min', ['uglify']);
 	grunt.registerTask('quick', ['es', 'min']);
-	grunt.registerTask('default', ['version', 'build', 'min']);
+	grunt.registerTask('default', ['version', 'build'/*, 'min'*/]);
 };
